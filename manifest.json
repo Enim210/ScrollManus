@@ -5,7 +5,7 @@
     "css": "style.css",
     "author": "Usuario",
     "version": "1.0.0",
-    "homePage": "https://github.com/usuario/sillytavern-scroll-to-bottom",
+    "homePage": "https://github.com/Enim210/ScrollManus",
     "auto_update": true,
     "description": "Añade un botón flotante para desplazarse rápidamente al final del chat, especialmente útil en dispositivos móviles cuando se pierde la posición al rotar la pantalla."
 }
